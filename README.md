@@ -1,2 +1,2 @@
 # MNIST_Keras
-Different ways to train a model 
+### Different ways to train a model 
